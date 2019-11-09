@@ -1,0 +1,2 @@
+model_checkpoint_path: "dpnet_result.cpkt"
+all_model_checkpoint_paths: "dpnet_result.cpkt"
